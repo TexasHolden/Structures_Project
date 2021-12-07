@@ -12,7 +12,7 @@ I chose to create a program that can tell if a string is a palindrome or not in 
 
 # Concepts: Since the concepts are seperated into parts on each file, here are the concepts all in one area for easier reading:
 
-Concept 1 ~The need for main()~ : C++ NEEDS a main, or what we'll call an entry point. Programs in c++ just need an entry point it can direct it around with function calls (and ect.) until main has ended. Unlike the c++ code, main is no where in sight. This is because python doesn't need one, for the Python interpreter from the top of the file unless a specific function is defined.
+Concept 1 /The need for main()\ : C++ NEEDS a main, or what we'll call an entry point. Programs in c++ just need an entry point it can direct it around with function calls (and ect.) until main has ended. Unlike the c++ code, main is no where in sight. This is because python doesn't need one, for the Python interpreter from the top of the file unless a specific function is defined.
 
 Concept 2 ~Compilers and Interpreters~ : C++ uses a compiler while python uses interpreters. Compilers take high level programs and convert them into machine code which is saved as an executable on a disk and then the user can runt it as a.out. Python doesn't have a compiler like c++. Instead, is uses an application called an interpreter. The interpreter compiles and executes the code without storing the machine code being created.
 
